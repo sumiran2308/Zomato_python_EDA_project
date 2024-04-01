@@ -1,4 +1,5 @@
 Zomato EDA Project README
+
 Overview
 This project involves conducting Exploratory Data Analysis (EDA) on Zomato data to gain insights into the restaurant industry and customer preferences. The dataset contains information about various restaurants, their locations, cuisines, ratings, and more, sourced from the Zomato API.
 
