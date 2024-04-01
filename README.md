@@ -26,14 +26,21 @@ Seaborn
 Methodology
 
 Data Cleaning: We begin by cleaning the dataset to handle missing values, duplicate entries, and inconsistencies.
+
 Data Exploration: We explore the dataset through descriptive statistics, distributions, and visualizations to understand its structure and characteristics.
+
 Analysis: We conduct in-depth analysis to uncover insights such as popular cuisines, restaurant ratings, customer preferences, and geographical trends.
+
 Visualization: We use various plots and graphs to visualize our findings and present them effectively.
+
 Conclusion: We summarize our key findings and insights derived from the analysis.
 
 Results
 
 Identified popular cuisines in different regions.
+
 Analyzed factors influencing restaurant ratings.
+
 Explored customer preferences and trends.
+
 Visualized geographical distribution of restaurants.
