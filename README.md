@@ -8,12 +8,17 @@ Objective
 
 The primary objective of this project is to analyze the Zomato dataset to extract meaningful insights that can benefit restaurant owners, customers, and Zomato itself. Through EDA, we aim to understand factors influencing restaurant ratings, popular cuisines in different regions, customer preferences, and more.
 
+
 Files Included
 
 zomato.csv: The dataset containing information about restaurants, including their names, locations, cuisines, ratings, and more.
+
 Country-Code.xlsx: The dataset containing information about country and country code.
+
 Zomato_EDA.ipynb: Jupyter Notebook containing the code for data preprocessing, analysis, and visualization.
+
 README.md: This file providing an overview of the project.
+
 
 Libraries Used
 
@@ -22,6 +27,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
+
 
 Methodology
 
@@ -34,6 +40,7 @@ Analysis: We conduct in-depth analysis to uncover insights such as popular cuisi
 Visualization: We use various plots and graphs to visualize our findings and present them effectively.
 
 Conclusion: We summarize our key findings and insights derived from the analysis.
+
 
 Results
 
