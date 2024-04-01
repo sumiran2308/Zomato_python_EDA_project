@@ -28,7 +28,6 @@ NumPy
 Matplotlib
 Seaborn
 
-
 Methodology
 
 Data Cleaning: We begin by cleaning the dataset to handle missing values, duplicate entries, and inconsistencies.
@@ -40,7 +39,6 @@ Analysis: We conduct in-depth analysis to uncover insights such as popular cuisi
 Visualization: We use various plots and graphs to visualize our findings and present them effectively.
 
 Conclusion: We summarize our key findings and insights derived from the analysis.
-
 
 Results
 
